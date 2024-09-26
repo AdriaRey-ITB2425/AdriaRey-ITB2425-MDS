@@ -5,5 +5,3 @@ else:
     print ("Eres menor de edad")
 
 print ("Programa finalizado")
-
-print ("prueba de que se actualiza")
