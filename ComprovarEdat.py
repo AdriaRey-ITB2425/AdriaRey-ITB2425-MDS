@@ -6,4 +6,3 @@ else:
 
 print ("Programa finalizado")
 
-print ("Se actualiza?")
